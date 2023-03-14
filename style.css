@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+.three{
+    color: green;
+
+}
+textarea{
+    resize: none;
+}
+#two{
+    color: blue;
+}
+
+.text{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-color: aqua;
+    color: blue;
+    background-color: yellow;
+    margin: 10px;
+    font-size: 25px;
+    padding: 25px;
+    border: 5px  solid black;
+    border-radius: 15px;
+    font-family: Bradley Hand, cursive;
+}
+
